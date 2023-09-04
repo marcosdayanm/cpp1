@@ -1,0 +1,5 @@
+Student name: Marcos
+Mark 1: 100
+Mark 2: 90
+Mark 3: 95
+The average is: 95

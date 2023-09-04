@@ -1,0 +1,4 @@
+The employee's name is: jim
+The employee's ID is: 101
+The employee's salary per week is: $17600
+The employee's bonus is: $2000
